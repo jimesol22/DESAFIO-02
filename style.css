@@ -1,0 +1,23 @@
+.letra {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: 40
+  ;
+  
+}
+
+.subtitulos {
+color: hsl(240, 54%, 30%);
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.parrafos {
+font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+
+}
+
+.achicar {
+  width: 600px;
+}
